@@ -45,6 +45,19 @@ h2 {
     line-height: 1.4;
   }
 
+  .fig {
+    position: relative;
+  }
+
+  .content {
+    position: absolute;
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    border-radius: 10px;
+    max-width: 20rem;
+    right: 1rem;
+    bottom: 1rem;
+  }
 
 }
 
